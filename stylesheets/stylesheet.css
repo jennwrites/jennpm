@@ -2,6 +2,11 @@
   box-sizing: border-box; }
 
 body {
+  background-image: url("landing.jpg");
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
   padding: 0;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
