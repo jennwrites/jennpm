@@ -2,7 +2,7 @@
   box-sizing: border-box; }
 
 body {
-  background-image: url("landing.jpg");
+  background-image: "landing.jpg";
   background-color: #ffffff;
   background-repeat: no-repeat;
   background-attachment: fixed;
