@@ -40,7 +40,7 @@ a {
   border-color: rgba(255, 255, 255, 0.3); }
 
 .image-wrapper {
-position: relative;  }
+  position: relative;  }
 
 .page-header {
   color: #fff;
@@ -49,9 +49,9 @@ position: relative;  }
   background-image:  }
 
 .scale-image {
-display: block;
-width: auto;
-max-width: 75%;  }
+  display: block;
+  width: auto;
+  max-width: 100%;  }
 
 .site-footer {
   padding-top: 2rem;
@@ -66,9 +66,9 @@ max-width: 75%;  }
   color: #819198; }
 
 #background {
-width: 100px;
-height: 100px; 
-position: fixed; 
-left: 0px; 
-top: 0px; 
-z-index: -1; }
+  width: 100px;
+  height: 100px; 
+  position: fixed; 
+  left: 0px; 
+  top: 0px; 
+  z-index: -1; }
