@@ -58,7 +58,8 @@ a {
   color: #819198; }
 
 #background {
-height: 85%; 
+width: 100px;
+height: 100px; 
 position: fixed; 
 left: 0px; 
 top: 0px; 
