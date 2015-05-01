@@ -39,9 +39,6 @@ a {
   background-color: rgba(255, 255, 255, 0.2);
   border-color: rgba(255, 255, 255, 0.3); }
 
-.image-wrapper {
-  position: relative;  }
-
 .page-header {
   color: #fff;
   text-align: center;
@@ -65,10 +62,3 @@ a {
 .site-footer-credits {
   color: #819198; }
 
-#background {
-  width: 100px;
-  height: 100px; 
-  position: fixed; 
-  left: 0px; 
-  top: 0px; 
-  z-index: -1; }
