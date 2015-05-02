@@ -15,7 +15,7 @@ body {
   padding 0;	
   background-image: url(/images/landing.jpg);
   background-attachment: fixed;
-  background-position: fixed;
+  background-position: relative;
   background-repeat: no-repeat;
   line-height: 1.5;
   -webkit-font-smoothing: antialised;
