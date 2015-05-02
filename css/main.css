@@ -12,8 +12,13 @@
 
 
 
-body { 
-  font-family: 'governorregular';
+body {
+  background-image: url(/images/landing.jpg);
+  background-position: center;
+ }
+
+@font-face {
+ font-family: 'governorregular';
     src: url('governor-webfont.eot');
     src: url('governor-webfont.eot?#iefix') format('embedded-opentype'),
          url('governor-webfont.woff2') format('woff2'),
@@ -38,7 +43,7 @@ h1 {
 }
 
 a:active, 
-a:visited {text-decoration: none   
+a:visited {text-decoration: none;   
 }
 
 td {    
@@ -47,7 +52,7 @@ td {
 }
 
 p {    
-  font-family: 'governorregular'
+  font-family: 'governorregular';
   color:# #45bfa4;    
   text-indent: 20px;        
 }
