@@ -13,26 +13,26 @@
 
 
 body { 
- font-family: 'governorregular';
+  font-family: 'governorregular';
     src: url('governor-webfont.eot');
     src: url('governor-webfont.eot?#iefix') format('embedded-opentype'),
          url('governor-webfont.woff2') format('woff2'),
          url('governor-webfont.woff') format('woff'),
          url('governor-webfont.ttf') format('truetype'),
          url('governor-webfont.svg#governorregular') format('svg');
- font-weight: normal;
- font-style: normal;
- min-height: 100%;
- font-size: 16px;
- line-height: 1.5;
- color: #45bfa4;
- text-rendering: optimizeSpeed;
+  font-weight: normal;
+  font-style: normal;
+  min-height: 100%;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #45bfa4;
+  text-rendering: optimizeSpeed;
 }
 
 h1 {        
   background-color:#CCC;    
   border: 1px solid;    
-  color:#39F;    
+  color:#45bfa4;    
   text-align: center;    
 }
 
