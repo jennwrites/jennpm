@@ -29,12 +29,12 @@ body {
   
 @font-face {
  font-family: 'governorregular';
-    src: url('governor-webfont.eot');
-    src: url('governor-webfont.eot?#iefix') format('embedded-opentype'),
-         url('governor-webfont.woff2') format('woff2'),
-         url('governor-webfont.woff') format('woff'),
-         url('governor-webfont.ttf') format('truetype'),
-         url('governor-webfont.svg#governorregular') format('svg');
+    src: url('webfontkit/governor-webfont.eot');
+    src: url('webfontkit/governor-webfont.eot?#iefix') format('embedded-opentype'),
+         url('webfontkit/governor-webfont.woff2') format('woff2'),
+         url('webfontkit/governor-webfont.woff') format('woff'),
+         url('webfontkit/governor-webfont.ttf') format('truetype'),
+         url('webfontkit/governor-webfont.svg#governorregular') format('svg');
 }
 
 html {
