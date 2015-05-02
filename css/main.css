@@ -14,7 +14,9 @@
 
 body {
   background-image: url(/images/landing.jpg);
-  background-position: center
+  background-attachment: fixed;
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
   font-family: 'governorregular'
   font-weight: normal;
   font-style: normal;
