@@ -11,7 +11,12 @@
 --------------------------------------------------------------------*/
 
 body { 
-  font-family: arial;    
+  font-family: arial;
+  src: url(governor.ttf);
+}
+
+div {
+    font-family: myFirstFont;
 }
 
 h1 {        
