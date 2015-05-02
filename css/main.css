@@ -22,7 +22,6 @@ body {
     -o-background-size: cover;
     background-size: cover; 
   line-height: 1.5;
-  -webkit-font-smoothing: antialised;
   font-family: 'governorregular';
   src: url('webfontkit/governor-webfont.eot');
   color: #45bfa4;
