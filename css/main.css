@@ -53,6 +53,10 @@ a:active,
 a:visited {text-decoration: none;   
 }
 
+a {
+  background-color: transparent;
+}
+
 td {    
   border: 0px;    
   text-align: center;    
