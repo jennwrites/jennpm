@@ -14,7 +14,14 @@
 
 body {
   background-image: url(/images/landing.jpg);
-  background-position: center;
+  background-position: center
+  font-family: 'governorregular'
+  font-weight: normal;
+  font-style: normal;
+  min-height: 100%;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #45bfa4;
  }
 
 @font-face {
