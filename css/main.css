@@ -49,13 +49,10 @@ a {
 }
 
 p {    
-  font-family: 'governorregular';
-  color:# #45bfa4;    
+  margin: 25px 0;
+  line-height: 140%;
+  font-size: 20px;
   text-indent: 20px;        
 }
 
-.align_center {
-	float: center; 
-	margin-right: 1em;
-	margin-bottom: 1em;
-}
+
