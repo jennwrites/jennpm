@@ -10,24 +10,23 @@
  Coded by @renrutnnej �
 --------------------------------------------------------------------*/
 
-@font-face {
-    font-family: 'governorregular';
+
+
+body { 
+ font-family: 'governorregular';
     src: url('governor-webfont.eot');
     src: url('governor-webfont.eot?#iefix') format('embedded-opentype'),
          url('governor-webfont.woff2') format('woff2'),
          url('governor-webfont.woff') format('woff'),
          url('governor-webfont.ttf') format('truetype'),
          url('governor-webfont.svg#governorregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-body { 
-  font-family: arial;
-  src: url(governor.ttf);
-}
-
-div {
-    font-family: myFirstFont;
+ font-weight: normal;
+ font-style: normal;
+ min-height: 100%;
+ font-size: 16px;
+ line-height: 1.5;
+ color: #45bfa4;
+ text-rendering: optimizeSpeed;
 }
 
 h1 {        
