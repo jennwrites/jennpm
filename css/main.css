@@ -10,22 +10,20 @@
  Coded by @renrutnnej �
 --------------------------------------------------------------------*/
 
-
-
 body {
+  margin: 0
+  padding 0;	
   background-image: url(/images/landing.jpg);
   background-attachment: fixed;
   background-position: 100% 100%;
   background-repeat: no-repeat;
-  font-family: 'governorregular'
-  font-weight: normal;
-  font-style: normal;
-  min-height: 100%;
-  font-size: 16px;
   line-height: 1.5;
+  -webkit-font-smoothing: antialised;
+  margin: 0;
+  font-family: "governorregular", sans-serif;
+  src: url('webfontkit/governor-webfont.eot');
   color: #45bfa4;
- }
-
+  
 @font-face {
  font-family: 'governorregular';
     src: url('governor-webfont.eot');
