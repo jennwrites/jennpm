@@ -23,7 +23,7 @@ body {
     background-size: cover; 
   line-height: 1.5;
   -webkit-font-smoothing: antialised;
-  font-family: 'governorregular', sans-serif;
+  font-family: 'governorregular';
   src: url('webfontkit/governor-webfont.eot');
   color: #45bfa4;
   
@@ -38,7 +38,7 @@ body {
 }
 
 html {
-  font-family: 'governorregular', sans-serif;
+  font-family: 'governorregular';
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -54,6 +54,7 @@ a {
 p {    
   margin: 25px 0;
   line-height: 140%;
+  font-family: 'governorregular';
   font-size: 20px;
   text-indent: 20px;        
 }
