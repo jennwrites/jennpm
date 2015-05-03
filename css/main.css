@@ -45,15 +45,24 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-a:active {
-  color: #ff9a5c;
-} 
-a:visited {
-  color: #ff9a5c;   
+a:link {
+  color: #ff9a5c; 
+  text-decoration: none; 
 }
 
-a {
-  color: #ff9a5c;
+a:active {
+  color: #ff9a5c; 
+  text-decoration: none; 
+}
+
+a:visited {
+ color: #ff9a5c; 
+ text-decoration: none; 
+}
+
+a:hover {
+  color: #ff9a5c; 
+  text-decoration: none; 
 }
 
 p {    
