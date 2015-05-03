@@ -44,8 +44,11 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-a:active, 
-a:visited {text-decoration: none;   
+a:active {
+  color: #ff9a5c;
+} 
+a:visited {
+  text-decoration: none;   
 }
 
 a {
