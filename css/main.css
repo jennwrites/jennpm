@@ -22,24 +22,25 @@ body {
     -o-background-size: cover;
     background-size: cover; 
   line-height: 1.5;
-  font-family: 'governorregular';
-  src: url('webfontkit/governor-webfont.eot');
+  font-family: 'cooper_hewittbook', sans-serif;
+  src: url('css/fonts/cooperhewitt-book-webfont.eot');
   color: #45bfa4;
   
-font-face {
-    font-family: 'governorregular';
-    src: url('webfontkit/governor-webfont.eot');
-    src: url('webfontkit/governor-webfont.eot?#iefix') format('embedded-opentype'),
-         url('webfontkit/governor-webfont.woff2') format('woff2'),
-         url('webfontkit/governor-webfont.woff') format('woff'),
-         url('webfontkit/governor-webfont.ttf') format('truetype'),
-         url('webfontkit/governor-webfont.svg#governorregular') format('svg');
+@font-face {
+    font-family: 'cooper_hewittbook', sans-serif;
+    src: url('cooperhewitt-book-webfont.eot');
+    src: url('cooperhewitt-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cooperhewitt-book-webfont.woff2') format('woff2'),
+         url('cooperhewitt-book-webfont.woff') format('woff'),
+         url('cooperhewitt-book-webfont.ttf') format('truetype'),
+         url('cooperhewitt-book-webfont.svg#cooper_hewittbook') format('svg');
     font-weight: normal;
     font-style: normal;
+
 }
 
 html {
-  font-family: 'governorregular';
+  font-family: 'cooper_hewittbook', sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -58,13 +59,13 @@ a {
 p {    
   margin: 25px 0;
   line-height: 140%;
-  font-family: 'governorregular';
+  font-family: 'cooper_hewittbook', sans-serif;
   font-size: 50px;
   text-indent: 20px;        
 }
 
 .main-content {
-    font-family: 'governorregular';
+    font-family: 'cooper_hewittbook', sans-serif;
     font-size: 50px;
     color: #45bfa4;
 }
