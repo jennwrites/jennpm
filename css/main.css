@@ -25,9 +25,9 @@ body {
   font-family: 'cooper_hewittbook', sans-serif;
   src: url('css/fonts/cooperhewitt-book-webfont.eot');
   color: #45bfa4;
-  
+}  
 @font-face {
-    font-family: 'cooper_hewittbook', sans-serif;
+    font-family: 'cooper_hewittbook';
     src: url('fonts/cooperhewitt-book-webfont.eot');
     src: url('fonts/cooperhewitt-book-webfont.eot?#iefix') format('embedded-opentype'),
          url('fonts/cooperhewitt-book-webfont.woff2') format('woff2'),
