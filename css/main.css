@@ -60,4 +60,8 @@ p {
   text-indent: 20px;        
 }
 
-
+.main-content {
+    font-family: 'governorregular';
+    font-size: 50px;
+    color: #45bfa4;
+}
