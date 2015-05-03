@@ -35,7 +35,7 @@ body {
          url('cooperhewitt-book-webfont.ttf') format('truetype'),
          url('cooperhewitt-book-webfont.svg#cooper_hewittbook') format('svg');
     font-weight: normal;
-    font-style: normal;
+    font-style: uppercase;
 
 }
 
