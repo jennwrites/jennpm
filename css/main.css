@@ -26,7 +26,7 @@ body {
   src: url('webfontkit/governor-webfont.eot');
   color: #45bfa4;
   
-@font-face {
+font-face {
     font-family: 'governorregular';
     src: url('webfontkit/governor-webfont.eot');
     src: url('webfontkit/governor-webfont.eot?#iefix') format('embedded-opentype'),
