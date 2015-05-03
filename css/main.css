@@ -22,22 +22,24 @@ body {
     -o-background-size: cover;
     background-size: cover; 
   line-height: 1.5;
-  font-family: 'governorregular', regular;
-  src: url('webfontkit/governor-webfont.eot');
+  font-family: 'governorregular';
+  src: url('css/webfontkit/governor-webfont.eot');
   color: #45bfa4;
   
 @font-face {
- font-family: 'governorregular';
-    src: url('webfontkit/governor-webfont.eot');
-    src: url('webfontkit/governor-webfont.eot?#iefix') format('embedded-opentype'),
-         url('webfontkit/governor-webfont.woff2') format('woff2'),
-         url('webfontkit/governor-webfont.woff') format('woff'),
-         url('webfontkit/governor-webfont.ttf') format('truetype'),
-         url('webfontkit/governor-webfont.svg#governorregular') format('svg');
+    font-family: 'governorregular';
+    src: url('css/webfontkit/governor-webfont.eot');
+    src: url('css/webfontkit/governor-webfont.eot?#iefix') format('embedded-opentype'),
+         url('css/webfontkit/governor-webfont.woff2') format('woff2'),
+         url('css/webfontkit/governor-webfont.woff') format('woff'),
+         url('css/webfontkit/governor-webfont.ttf') format('truetype'),
+         url('css/webfontkit/governor-webfont.svg#governorregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 html {
-  font-family: 'governorregular', regular;
+  font-family: 'governorregular';
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -53,7 +55,7 @@ a {
 p {    
   margin: 25px 0;
   line-height: 140%;
-  font-family: 'governorregular', regular;
+  font-family: 'governorregular';
   font-size: 50px;
   text-indent: 20px;        
 }
