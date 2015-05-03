@@ -25,7 +25,8 @@ body {
   font-family: 'cooper_hewittbook', sans-serif;
   src: url('css/fonts/cooperhewitt-book-webfont.eot');
   color: #45bfa4;
-}  
+}
+
 @font-face {
     font-family: 'cooper_hewittbook';
     src: url('fonts/cooperhewitt-book-webfont.eot');
