@@ -39,11 +39,6 @@ body {
 
 }
 
-html {
-  font-family: 'cooper_hewittbook', sans-serif;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-}
 
 a:link {
   color: #ff9a5c; 
