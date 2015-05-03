@@ -7,7 +7,7 @@
 \ \________\ \_______\ \__\\ \__\ \__\\ \__\
  \|________|\|_______|\|__| \|__|\|__| \|__|
  
- Coded by @renrutnnej �
+ Coded by @renrutnnej :sunglasses:
 --------------------------------------------------------------------*/
 
 body {
@@ -36,9 +36,7 @@ body {
          url('cooperhewitt-book-webfont.svg#cooper_hewittbook') format('svg');
     font-weight: normal;
     font-style: uppercase;
-
 }
-
 
 a:link {
   color: #ff9a5c; 
@@ -61,7 +59,7 @@ a:hover {
 }
 
 p {    
-  margin: 25px 0;
+  margin: 25px;
   line-height: 140%;
   font-family: 'cooper_hewittbook', sans-serif;
   font-size: 50px;
