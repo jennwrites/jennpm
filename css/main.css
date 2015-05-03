@@ -28,12 +28,12 @@ body {
   
 @font-face {
     font-family: 'cooper_hewittbook', sans-serif;
-    src: url('cooperhewitt-book-webfont.eot');
-    src: url('cooperhewitt-book-webfont.eot?#iefix') format('embedded-opentype'),
-         url('cooperhewitt-book-webfont.woff2') format('woff2'),
-         url('cooperhewitt-book-webfont.woff') format('woff'),
-         url('cooperhewitt-book-webfont.ttf') format('truetype'),
-         url('cooperhewitt-book-webfont.svg#cooper_hewittbook') format('svg');
+    src: url('fonts/cooperhewitt-book-webfont.eot');
+    src: url('fonts/cooperhewitt-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/cooperhewitt-book-webfont.woff2') format('woff2'),
+         url('fonts/cooperhewitt-book-webfont.woff') format('woff'),
+         url('fonts/cooperhewitt-book-webfont.ttf') format('truetype'),
+         url('fonts/cooperhewitt-book-webfont.svg#cooper_hewittbook') format('svg');
     font-weight: normal;
     font-style: uppercase;
 }
