@@ -10,10 +10,26 @@
  Coded by @renrutnnej :sunglasses:
 --------------------------------------------------------------------*/
 
-body {
+body#landing {
   margin: 25px;
   padding: 25px;	
   background-image: url(/images/landing.jpg);
+  background-attachment: fixed;
+  background-position: relative;
+  background-repeat: no-repeat;
+  webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+  line-height: 1.5;
+  font-family: 'cooper_hewittbook', sans-serif;
+  color: #45bfa4;
+}
+
+body#writing {
+  margin: 25px;
+  padding: 25px;	
+  background-image: url(/images/writing.jpg);
   background-attachment: fixed;
   background-position: relative;
   background-repeat: no-repeat;
