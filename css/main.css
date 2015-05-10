@@ -10,7 +10,7 @@
  Coded by @renrutnnej :sunglasses:
 --------------------------------------------------------------------*/
 
-body#landing {
+body:landing {
   margin: 25px;
   padding: 25px;	
   background-image: url(/images/landing.jpg);
@@ -26,7 +26,7 @@ body#landing {
   color: #45bfa4;
 }
 
-body#writing {
+body:writing {
   margin: 25px;
   padding: 25px;	
   background-image: url(/images/writing.jpg);
