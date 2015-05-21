@@ -123,9 +123,9 @@ p {
   height: 150px;
   margin-top: 10px;
   
-  line-height: 150px;
+  line-height: 0px;
   color: #45bfa4;
   font-weight: bold;
   font-size: 3em;
-  text-align: center;
+  text-align: left;
 }
