@@ -125,7 +125,7 @@ p {
   
   line-height: 20px;
   color: #45bfa4;
-  font-weight: bold;
-  font-size: 25px;
+  font-weight: none;
+  font-size: 20px;
   text-align: left;
 }
