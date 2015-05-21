@@ -89,6 +89,17 @@ p {
   font-style: uppercase;        
 }
 
+footer {
+  clear: both;
+  position: relative;
+  z-index: 10;
+  height: 3em;
+  margin-top: -3em;
+  font-family: 'cooper_hewittbook', sans-serif;
+  color:#ff9a5c;
+  font-size: 20px;
+}
+
 .main-content {
     font-family: 'cooper_hewittbook', sans-serif;
     font-size: 20px;
