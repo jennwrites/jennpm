@@ -95,6 +95,12 @@ p {
     color: #45bfa4;
 }
 
+.writing-content {
+    font-family: 'cooper_hewittbook', sans-serif;
+    font-size: 10px;
+    color: #45bfa4;
+}
+
 .flex-container {
   padding: 0;
   margin: 0;
