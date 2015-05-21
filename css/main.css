@@ -10,10 +10,10 @@
  Coded by @renrutnnej :sunglasses:
 --------------------------------------------------------------------*/
 
-body:landing {
+#landing {
   margin: 25px;
   padding: 25px;	
-  background-image: url(/images/landing.jpg);
+  background-image: url(../images/landing.jpg);
   background-attachment: fixed;
   background-position: relative;
   background-repeat: no-repeat;
@@ -26,10 +26,10 @@ body:landing {
   color: #45bfa4;
 }
 
-body:writing {
+#writing {
   margin: 25px;
   padding: 25px;	
-  background-image: url(/images/writing.jpg);
+  background-image: url(../images/writing.jpg);
   background-attachment: fixed;
   background-position: relative;
   background-repeat: no-repeat;
